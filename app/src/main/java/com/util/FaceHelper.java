@@ -19,12 +19,6 @@ import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.util.logging.Logger;
 
-/**
- * Created by ycxu on 17-2-25.
- *
- * @author ycxu 282331204@qq.com
- * @version 1.1 添加缩放策略
- */
 
 public class FaceHelper {
     private static final String TAG = "FaceHelper";
